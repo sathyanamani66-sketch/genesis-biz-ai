@@ -1,0 +1,4 @@
+project_id = "adriodkvryzlwjniddrn"
+
+[functions.generate-business-ideas]
+verify_jwt = false
